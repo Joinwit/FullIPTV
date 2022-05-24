@@ -11,7 +11,7 @@ fix bugs
 Last Version FullIPTV Panel v2.0
 
 
-git clone https://github.com/irtec/FullIPTV
+git clone https://github.com/Joinwit/FullIPTV
 
 cd FullIPTV/
 
